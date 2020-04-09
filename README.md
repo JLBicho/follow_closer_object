@@ -1,5 +1,10 @@
 # follow_closer_object
- ROS node to follow the closer object using data from scan
+ROS node to follow the closer object using data from scan
 
+# Description
+Moves to the point of the closest scan range
 
-# Tested in TurtleBot3 Burger
+# ROS Version
+Kinetic
+
+# Files
